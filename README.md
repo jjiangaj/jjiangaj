@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjiangaj
-- 👀 I’m interested in Quantitative Finance
-- 🌱 I’m currently learning Accounting
+- 👀 I’m interested in Computer Graphics
+- 🌱 I’m currently learning Physically based animation
 - 📫 Reach me by email: jjiangaj@gmail.com
 
 <!---
